@@ -32,6 +32,8 @@ BUILD		:=	build
 SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
+APP_AUTHOR	:=	aj-m
+APP_DESCRIPTION	:=	Transfer files between DS systems
 #ROMFS		:=	romfs
 
 #---------------------------------------------------------------------------------
