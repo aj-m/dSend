@@ -3,6 +3,9 @@
 
 #include <3ds.h>
 
+int sendFile(char* fileURI);
+int receiveFile();
+
 int main(int argc, char **argv) {
 
 	gfxInitDefault();
