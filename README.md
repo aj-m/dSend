@@ -1,3 +1,5 @@
-# template
+#dSend
 
-This is a template for starting new 3DS libctru projects.
+*A small tool for sharing files between DS systems on a network*
+
+Shit's not done yet yo
